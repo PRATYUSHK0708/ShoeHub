@@ -1,0 +1,64 @@
+
+[
+    {
+        "id":1,
+        "name":"Nike air jordan1",
+        "price":"$25",
+        "image":"images/Adidas1.jpg"
+    },
+    {
+        "id":2,
+        "name":"Nike air jordan1",
+        "price":"$40",
+        "image":"images/Adidas2.jpg"
+    },
+    {
+        "id":3,
+        "name":"Nike air jordan1",
+        "price":"$32",
+        "image":"images/Adidas3.jpg"
+    },
+    {
+        "id":4,
+        "name":"Nike air jordan1",
+        "price":"$55",
+        "image":"images/Adidas4.jpg"
+    },
+    {
+        "id":5,
+        "name":"Nike air jordan1",
+        "price":"$35",
+        "image":"images/Adidas5.jpg"
+    },
+    {
+        "id":6,
+        "name":"Nike air jordan1",
+        "price":"$40",
+        "image":"images/Adidas6.jpg"
+    },
+    {
+        "id":7,
+        "name":"Nike air jordan1",
+        "price":"$43",
+        "image":"images/Adidas7.jpg"
+    },
+    {
+        "id":8,
+        "name":"Nike air jordan1",
+        "price":"$58",
+        "image":"images/Adidas8.jpg"
+    },
+    {
+        "id":9,
+        "name":"Nike air jordan1",
+        "price":"$60",
+        "image":"images/Adidas9.jpg"
+    },
+    {
+        "id":10,
+        "name":"Nike air jordan1",
+        "price":"$43",
+        "image":"images/Adidas10.jpg"
+    }
+   
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas Superstar White",
+    "price": "$129",
+    "image": "images/AdidasShoes/Adidas7.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Jordan 2 Retro",
+    "price": "$314",
+    "image": "images/jordanshoes/jordan4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Puma RS-X3 Triple Black",
+    "price": "$132",
+    "image": "images/pumaShoes/puma4.png"
+  },
+  {
+    "id": 4,
+    "name": "Gucci Rhyton Logo Black",
+    "price": "$749",
+    "image": "images/gucciShoes/gucci7.png"
+  },
+  {
+    "id": 5,
+    "name": "Adidas UltraBoost Blue",
+    "price": "$189",
+    "image": "images/AdidasShoes/Adidas5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Jordan 1 High OG Chicago",
+    "price": "$324",
+    "image": "images/jordanshoes/jordan10.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Gucci Horsebit Loafer",
+    "price": "$899",
+    "image": "images/gucciShoes/gucci5.png"
+  },
+  {
+    "id": 8,
+    "name": "Nike Air Jordan 6 Infrared",
+    "price": "$315",
+    "image": "images/jordanshoes/jordan6.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Puma Suede Classic XXI",
+    "price": "$89",
+    "image": "images/pumaShoes/puma2.png"
+  },
+  {
+    "id": 10,
+    "name": "Adidas Yeezy Boost 350",
+    "price": "$243",
+    "image": "images/AdidasShoes/Adidas4.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Gucci Ace Sneaker White",
+    "price": "$599",
+    "image": "images/gucciShoes/gucci1.png"
+  },
+  {
+    "id": 12,
+    "name": "Nike Air Jordan 6 Travis Scott",
+    "price": "$425",
+    "image": "images/jordanshoes/jordan6.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Nike Air Jordan 3 White Cement",
+    "price": "$214",
+    "image": "images/jordanshoes/jordan3.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Puma Palermo Small",
+    "price": "$95",
+    "image": "images/pumaShoes/puma8.png"
+  }
+]
