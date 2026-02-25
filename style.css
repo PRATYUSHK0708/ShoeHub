@@ -353,6 +353,7 @@ h2 .hero-btn {
     gap: 2px;
     min-width: 110px;   /* IMPORTANT */
     justify-content: flex-end;
+    margin-right: 10px;
 }
 
 .quantity i {
@@ -946,3 +947,4 @@ h2 .hero-btn {
         right: 0;
     }
 }
+
