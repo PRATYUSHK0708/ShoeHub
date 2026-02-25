@@ -135,7 +135,7 @@ const addToCart = (product) => {
                     </div>
                     <div class=" item-detail flex mt-2">
                         <h3>${product.name}</h3>
-                        <h5 class="item-total">${product.price}</h5>
+                        <h5 class="item-total">$${price.toFixed(2)}</h5>
 
                         <div class="quantity flex ">
                             <a href="" class="quantity-btn ">
@@ -246,5 +246,6 @@ scrollRight.addEventListener('click', () => {
 setInterval(() => {
   gallery.scrollBy({ left: 300, behavior: 'smooth' });
 }, 5000);
+
 
 
